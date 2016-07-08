@@ -1,0 +1,738 @@
+1
+00:00:02,692 --> 00:00:05,963
+Captain’s Log, stardate: 6050.8.
+
+2
+00:00:06,006 --> 00:00:07,722
+En route to the Quorus system,
+
+3
+00:00:07,765 --> 00:00:11,581
+we were intercepted by the Azrael
+and fired upon unexpectedly.
+
+4
+00:00:11,885 --> 00:00:14,923
+The attack was specifically designed
+to knock out our warp systems,
+
+5
+00:00:14,966 --> 00:00:18,018
+which we believe was intended to
+delay our reaching the fifth planet.
+
+6
+00:00:18,283 --> 00:00:20,074
+After relatively quick repairs,
+
+7
+00:00:20,117 --> 00:00:24,575
+we resumed our original course and
+now have arrived at Quorus Five.
+
+8
+00:00:24,715 --> 00:00:27,380
+The Azrael is holding its
+position near the gas giant
+
+9
+00:00:27,404 --> 00:00:29,648
+and has not made a
+move since our arrival.
+
+10
+00:00:30,867 --> 00:00:32,012
+Magnify.
+
+11
+00:00:36,234 --> 00:00:37,769
+Amazing!
+
+12
+00:00:38,137 --> 00:00:39,429
+Fascinating!
+
+13
+00:00:39,774 --> 00:00:41,373
+Analysis, RT.
+
+14
+00:00:41,713 --> 00:00:45,382
+Those devices seem to be using the
+entire planet as a source of fuel
+
+15
+00:00:45,406 --> 00:00:48,632
+to create a strange type of
+energy that I can’t identify.
+
+16
+00:00:49,048 --> 00:00:52,478
+Some residual energy is escaping
+the planet’s gravitational pull
+
+17
+00:00:52,502 --> 00:00:55,054
+and penetrating both
+Azrael and Farragut.
+
+18
+00:00:55,404 --> 00:00:56,522
+Our shields?
+
+19
+00:00:56,546 --> 00:00:58,963
+They appear to have no effect
+on repelling the energy.
+
+20
+00:00:59,071 --> 00:01:00,592
+What is your threat assessment?
+
+21
+00:01:00,742 --> 00:01:03,766
+Unknown. This is unlike
+anything I’ve seen before.
+
+22
+00:01:03,874 --> 00:01:05,504
+Our sensors aren’t
+picking up anything new
+
+23
+00:01:05,571 --> 00:01:06,919
+that we haven’t been able to analyze
+
+24
+00:01:06,943 --> 00:01:09,098
+from top to bottom
+from the Azrael feeds.
+
+25
+00:01:09,741 --> 00:01:11,021
+I was afraid of that.
+
+26
+00:01:11,327 --> 00:01:13,605
+Hail the Azrael. Let’s
+see if they’ll talk.
+
+27
+00:01:15,093 --> 00:01:18,033
+Farragut to Azrael, do you read?
+
+28
+00:01:23,837 --> 00:01:27,864
+Sir, I’m getting something...
+I mean someone, but...
+
+29
+00:01:27,888 --> 00:01:28,949
+What is it?
+
+30
+00:01:29,101 --> 00:01:33,317
+This... person is ordering us
+to leave the system immediately.
+
+31
+00:01:33,551 --> 00:01:34,544
+Put me on.
+
+32
+00:01:35,651 --> 00:01:39,585
+Azrael, this is Captain John
+T. Carter of the USS Farragut.
+
+33
+00:01:39,651 --> 00:01:41,072
+What’s your situation?
+
+34
+00:01:41,334 --> 00:01:44,626
+*This is Commodore Sheila
+Johnson of the USS Azrael.*
+
+35
+00:01:44,860 --> 00:01:48,297
+*As I outrank you and, quite frankly,
+can outthink and outfight you,*
+
+36
+00:01:48,363 --> 00:01:50,975
+*I hereby order you to
+hightail it out of this system*
+
+37
+00:01:51,041 --> 00:01:53,503
+*before I take measures
+to destroy your ship!*
+
+38
+00:01:53,511 --> 00:01:54,942
+Commodore who?
+
+39
+00:01:55,652 --> 00:01:58,466
+Look, I don’t care who
+the hell you think you are,
+
+40
+00:01:58,490 --> 00:02:00,979
+put me through to
+Captain Glenn immediately!
+
+41
+00:02:01,213 --> 00:02:04,488
+*You have ten minutes to comply
+with my order! Azrael out!*
+
+42
+00:02:05,767 --> 00:02:08,990
+I might be mistaken, but
+I don’t recall mention of
+
+43
+00:02:09,014 --> 00:02:11,519
+a Commodore Johnson
+serving on the Azrael.
+
+44
+00:02:11,562 --> 00:02:15,112
+No, sir. However, there
+is an Ensign Sheila Johnson
+
+45
+00:02:15,136 --> 00:02:17,216
+serving as the ship’s Comm Officer.
+
+46
+00:02:17,437 --> 00:02:18,666
+Ensign?
+
+47
+00:02:18,768 --> 00:02:22,287
+Captain, the Azrael’s shields are down.
+
+48
+00:02:22,435 --> 00:02:24,897
+Very odd for a ship
+planning to attack us.
+
+49
+00:02:25,295 --> 00:02:27,938
+Any chance you can pinpoint
+Captain Glenn’s location?
+
+50
+00:02:28,082 --> 00:02:31,448
+I could if we had access
+to Glenn’s medical records.
+
+51
+00:02:31,671 --> 00:02:34,263
+A narrow band sensor array is capable
+
+52
+00:02:34,330 --> 00:02:36,288
+of picking up a unique bio signature.
+
+53
+00:02:36,520 --> 00:02:39,423
+Those records would be available
+in the Azrael’s databanks.
+
+54
+00:02:39,831 --> 00:02:41,005
+I should be able to access them
+
+55
+00:02:41,029 --> 00:02:43,006
+with command level override codes.
+
+56
+00:02:43,048 --> 00:02:45,216
+If they haven’t locked out access.
+
+57
+00:02:45,436 --> 00:02:46,936
+Let’s give it a try.
+
+58
+00:02:48,799 --> 00:02:50,706
+*Access granted.*
+
+59
+00:02:50,772 --> 00:02:54,659
+Computer, download medical
+records for Captain Aaron Glenn
+
+60
+00:02:54,725 --> 00:02:56,730
+and tie into the ship’s sensor array.
+
+61
+00:02:57,100 --> 00:02:58,079
+*Working.*
+
+62
+00:03:01,333 --> 00:03:03,001
+*Task complete.*
+
+63
+00:03:03,077 --> 00:03:04,685
+She’s all yours, RT.
+
+64
+00:03:09,147 --> 00:03:11,930
+Got him. He’s in the
+Science Lab on deck five.
+
+65
+00:03:13,504 --> 00:03:15,481
+Mike, report to the bridge.
+
+66
+00:03:15,547 --> 00:03:17,475
+We’re beaming over to the Azrael.
+
+67
+00:03:17,541 --> 00:03:18,889
+You’re in command.
+
+68
+00:03:18,955 --> 00:03:22,479
+Mr. Prescott, meet us in the
+transporter room with one of your staff.
+
+69
+00:03:34,591 --> 00:03:37,379
+Does it seem excessively
+hot in here to you, Captain?
+
+70
+00:03:37,510 --> 00:03:40,249
+It must be over forty
+degrees Celsius in here.
+
+71
+00:03:46,306 --> 00:03:47,865
+Intruders!
+
+72
+00:03:48,027 --> 00:03:48,946
+Get them!
+
+73
+00:03:49,887 --> 00:03:51,110
+Phasers on stun.
+
+74
+00:03:58,090 --> 00:03:59,404
+Call security!
+
+75
+00:03:59,862 --> 00:04:02,677
+No affect. Heavy stun.
+
+76
+00:04:06,369 --> 00:04:07,848
+Did you see their eyes?
+
+77
+00:04:08,244 --> 00:04:10,692
+It’s a good chance that
+the energy from Quorus Five
+
+78
+00:04:10,758 --> 00:04:13,730
+is causing the abnormal
+behaviors and appearances.
+
+79
+00:04:13,903 --> 00:04:16,055
+And it’s going to
+begin affecting us soon.
+
+80
+00:04:16,108 --> 00:04:18,224
+Right, no time to waste.
+
+81
+00:04:18,291 --> 00:04:20,921
+Let’s get to Glenn and get some answers.
+
+82
+00:04:33,288 --> 00:04:35,789
+Commander, we’re receiving
+another communication
+
+83
+00:04:35,813 --> 00:04:39,382
+from the alleged “Commodore”
+Johnson. Should I respond?
+
+84
+00:04:39,490 --> 00:04:42,144
+No. Maintain communication
+silence for the moment
+
+85
+00:04:42,210 --> 00:04:43,791
+while Jack and his team are on board.
+
+86
+00:04:44,153 --> 00:04:47,639
+Mr. Thelin, is there any
+change in the Azrael’s status?
+
+87
+00:04:47,998 --> 00:04:50,806
+No, sir. It’s... wait a second.
+
+88
+00:04:50,816 --> 00:04:52,053
+That’s odd.
+
+89
+00:04:52,094 --> 00:04:53,147
+What is it?
+
+90
+00:04:53,277 --> 00:04:56,258
+I don’t quite know. My
+instruments seem to be acting up.
+
+91
+00:04:56,282 --> 00:04:58,822
+I’m reading wild
+fluctuations in our position.
+
+92
+00:04:59,069 --> 00:05:01,432
+One second it’s showing
+where we’re supposed to be
+
+93
+00:05:01,456 --> 00:05:03,700
+and the next it has us
+somewhere else completely.
+
+94
+00:05:03,853 --> 00:05:05,493
+It’s not just you.
+
+95
+00:05:05,819 --> 00:05:08,483
+I’m seeing some strange
+anomalies here as well.
+
+96
+00:05:08,777 --> 00:05:11,377
+Every time I try to correct
+it, it just goes off again.
+
+97
+00:05:19,792 --> 00:05:20,919
+Smithfield to Galway.
+
+98
+00:05:20,944 --> 00:05:21,993
+*Galway here.*
+
+99
+00:05:22,017 --> 00:05:23,494
+What’s going on down there?
+
+100
+00:05:23,518 --> 00:05:25,782
+We’re experiencing some
+instrumentation failures.
+
+101
+00:05:26,259 --> 00:05:28,008
+I’m registering multiple
+failures in most of
+
+102
+00:05:28,032 --> 00:05:30,200
+the primary, secondary,
+and tertiary systems.
+
+103
+00:05:30,267 --> 00:05:33,301
+But it’s sporadic...
+It’s jumping around.
+
+104
+00:05:33,325 --> 00:05:35,260
+*Run diagnostics on all systems.*
+
+105
+00:05:35,284 --> 00:05:37,592
+*I want to know why my ship is acting up!*
+
+106
+00:05:37,616 --> 00:05:40,925
+Diagnostics aren’t working
+either. I need your help fast
+
+107
+00:05:40,949 --> 00:05:43,132
+or we’re going to lose
+environmental systems too!
+
+108
+00:05:44,161 --> 00:05:45,275
+On my way.
+
+109
+00:05:45,553 --> 00:05:47,281
+Mr. Thelin, you have the con.
+
+110
+00:05:54,780 --> 00:05:57,244
+Whoa! What just caused that?
+
+111
+00:05:57,268 --> 00:05:59,842
+I can’t nail it down.
+Every time I try to
+
+112
+00:05:59,909 --> 00:06:02,585
+compensate for one system,
+another one goes down.
+
+113
+00:06:09,249 --> 00:06:10,992
+This is getting us nowhere.
+
+114
+00:06:11,448 --> 00:06:12,440
+Agreed.
+
+115
+00:06:12,613 --> 00:06:14,411
+Let’s shut down all systems and
+
+116
+00:06:14,477 --> 00:06:16,344
+bring them back up under manual control.
+
+117
+00:06:16,390 --> 00:06:17,902
+We’ll route minimal power to
+
+118
+00:06:17,968 --> 00:06:20,868
+non-critical systems and lock
+them down on a fixed setting.
+
+119
+00:06:21,102 --> 00:06:22,724
+Alright. Let’s do it.
+
+120
+00:06:35,984 --> 00:06:38,974
+That seems to have done
+the trick... For the moment.
+
+121
+00:06:39,125 --> 00:06:40,721
+Congratulations, Chief.
+
+122
+00:06:40,787 --> 00:06:41,837
+Thanks.
+
+123
+00:06:41,865 --> 00:06:43,361
+Don’t get too comfortable though.
+
+124
+00:06:44,000 --> 00:06:46,463
+I want you to monitor
+these systems constantly.
+
+125
+00:06:46,487 --> 00:06:50,022
+Advise me of anything
+unusual. I’ll be on the bridge.
+
+126
+00:06:50,088 --> 00:06:51,320
+Aye, sir.
+
+127
+00:06:56,781 --> 00:07:00,697
+Why can’t I solve this? It’s all here...
+
+128
+00:07:01,353 --> 00:07:06,287
+I have all I need... I
+must solve it... I must...
+
+129
+00:07:07,291 --> 00:07:08,638
+Captain Glenn?
+
+130
+00:07:11,877 --> 00:07:13,730
+And you are...?
+
+131
+00:07:13,754 --> 00:07:17,733
+Carter, Sir. Captain John T.
+Carter of the USS Farragut.
+
+132
+00:07:18,000 --> 00:07:20,168
+I don’t remember inviting you!
+
+133
+00:07:20,356 --> 00:07:22,733
+Do you want to explain to
+me why you fired on my ship?
+
+134
+00:07:22,841 --> 00:07:25,700
+Nonsense. I didn’t fire on anyone!
+
+135
+00:07:25,724 --> 00:07:28,257
+And I strongly suggest
+that you leave my ship
+
+136
+00:07:28,281 --> 00:07:30,826
+before I’m forced to
+deal with you personally!
+
+137
+00:07:30,850 --> 00:07:34,217
+What’s the big experiment,
+Glenn? What are you doing here?
+
+138
+00:07:34,409 --> 00:07:36,138
+You wouldn’t understand!
+
+139
+00:07:37,929 --> 00:07:39,056
+RT?
+
+140
+00:07:39,148 --> 00:07:42,044
+He is tapped into those
+devices orbiting Quorus Five.
+
+141
+00:07:42,755 --> 00:07:46,115
+They appear to be part of a network
+of machines all working in concert.
+
+142
+00:07:46,181 --> 00:07:48,354
+But for what purpose, I can’t say.
+
+143
+00:07:48,626 --> 00:07:50,289
+Alright, that’s it Glenn.
+
+144
+00:07:50,356 --> 00:07:52,679
+You will relinquish
+command to my Security Chief
+
+145
+00:07:52,703 --> 00:07:54,943
+and accompany me
+peacefully to the Farragut.
+
+146
+00:07:54,967 --> 00:07:56,996
+The Azrael will then
+follow us out of the system.
+
+147
+00:07:57,104 --> 00:07:58,058
+Go away!
+
+148
+00:07:58,083 --> 00:08:01,730
+I have important research
+and I cannot be disturbed!
+
+149
+00:08:02,469 --> 00:08:03,876
+Let me try, sir.
+
+150
+00:08:04,622 --> 00:08:08,796
+Captain Glenn, it’s me, Henry Prescott.
+
+151
+00:08:09,655 --> 00:08:12,775
+Starfleet Academy training
+mission to Altair Six?
+
+152
+00:08:14,239 --> 00:08:16,366
+You were my commanding
+officer on that mission...
+
+153
+00:08:17,539 --> 00:08:20,628
+My only mission is
+to solve this mystery!
+
+154
+00:08:20,875 --> 00:08:22,929
+And I don’t care who you are!
+
+155
+00:08:24,361 --> 00:08:27,144
+Mr. Prescott, Captain
+Glenn is under arrest.
+
+156
+00:08:27,294 --> 00:08:28,801
+Take him into custody, please.
+
+157
+00:08:31,014 --> 00:08:32,173
+Aye, sir.
+
+158
+00:08:33,433 --> 00:08:35,971
+Captain Glenn, please come with me.
+
+159
+00:08:36,000 --> 00:08:39,827
+I... am not going anywhere.
+
+160
+00:08:52,324 --> 00:08:55,425
+Sorry, Mr. Prescott. I know it
+must have been difficult to see
+
+161
+00:08:55,449 --> 00:08:57,819
+your former commanding officer
+behaving behaving like that.
+
+162
+00:08:57,948 --> 00:09:00,275
+Yes, sir, it was.
+
+163
+00:09:00,414 --> 00:09:03,593
+Let’s get him back to the Farragut
+and see if we can sort this out.
+
+164
+00:09:14,373 --> 00:09:15,893
+Translation, proofreading, subtitling
+and synchronization: Mark Hildebrand
+

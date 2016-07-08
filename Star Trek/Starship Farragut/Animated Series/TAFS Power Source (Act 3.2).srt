@@ -1,0 +1,353 @@
+1
+00:00:01,626 --> 00:00:03,214
+Captain’s log, supplemental.
+
+2
+00:00:03,364 --> 00:00:04,957
+After surviving the massive
+
+3
+00:00:05,023 --> 00:00:06,976
+planetary explosion of Quorus Five,
+
+4
+00:00:07,001 --> 00:00:09,789
+Captain Glenn is making
+preparations to depart.
+
+5
+00:00:09,981 --> 00:00:12,028
+His mission is to resume exploration
+
+6
+00:00:12,052 --> 00:00:13,782
+of the remnants of that system.
+
+7
+00:00:14,049 --> 00:00:16,219
+Starfleet hopes that
+they will uncover answers
+
+8
+00:00:16,286 --> 00:00:18,497
+to some very disconcerting questions.
+
+9
+00:00:18,689 --> 00:00:21,623
+Thanks once again for pulling
+us out of the jam back there.
+
+10
+00:00:22,269 --> 00:00:23,709
+I feel pretty foolish.
+
+11
+00:00:23,733 --> 00:00:25,394
+I almost led us all to our destruction
+
+12
+00:00:25,460 --> 00:00:27,113
+over a petty obsession.
+
+13
+00:00:27,276 --> 00:00:29,188
+Doctor Holley is sure
+that you and your crew
+
+14
+00:00:29,254 --> 00:00:31,247
+were not responsible for your actions.
+
+15
+00:00:31,802 --> 00:00:33,435
+And yet she couldn’t produce evidence
+
+16
+00:00:33,459 --> 00:00:35,790
+of any medical reason for our condition.
+
+17
+00:00:35,982 --> 00:00:37,609
+We all suffered something from being
+
+18
+00:00:37,633 --> 00:00:39,686
+exposed to that alien technology.
+
+19
+00:00:39,710 --> 00:00:43,242
+You, Mr. Prescott? I
+don’t recall noticing
+
+20
+00:00:43,266 --> 00:00:44,589
+you having any difficulties.
+
+21
+00:00:44,823 --> 00:00:46,532
+My particular training should have
+
+22
+00:00:46,556 --> 00:00:48,336
+allowed me to keep it under control.
+
+23
+00:00:48,615 --> 00:00:50,771
+However, my performance in the lab
+
+24
+00:00:50,795 --> 00:00:52,756
+would seem to indicate otherwise.
+
+25
+00:00:52,990 --> 00:00:55,903
+Well, in the end you
+came through for us.
+
+26
+00:00:56,163 --> 00:00:59,943
+Yes. Captain Glenn, I’m... sorry
+
+27
+00:00:59,968 --> 00:01:02,199
+for what happened on the Azrael bridge.
+
+28
+00:01:02,223 --> 00:01:03,909
+I hope you don’t think less of me.
+
+29
+00:01:04,101 --> 00:01:07,822
+On the contrary. You’ve
+once again demonstrated
+
+30
+00:01:07,888 --> 00:01:10,442
+excellence in the
+performance of your duty.
+
+31
+00:01:10,936 --> 00:01:13,344
+Anyway, the whole thing seems
+
+32
+00:01:13,368 --> 00:01:16,083
+somehow unreal now.
+
+33
+00:01:16,150 --> 00:01:17,318
+Thank you, sir.
+
+34
+00:01:17,553 --> 00:01:20,226
+I’m just sorry your
+Smithfield couldn’t be here.
+
+35
+00:01:20,250 --> 00:01:22,955
+I was rather looking
+forward to meeting her.
+
+36
+00:01:23,021 --> 00:01:25,922
+No, sir, you might
+not enjoy that meeting.
+
+37
+00:01:26,544 --> 00:01:28,487
+She’s still in her engine
+room trying to repair
+
+38
+00:01:28,511 --> 00:01:30,732
+the mess that she thinks you caused.
+
+39
+00:01:30,757 --> 00:01:32,677
+The last time I saw
+her she was grumbling
+
+40
+00:01:32,743 --> 00:01:34,987
+something that included
+your name and some
+
+41
+00:01:35,011 --> 00:01:37,484
+choice words that I had to look up.
+
+42
+00:01:53,217 --> 00:01:54,426
+Come.
+
+43
+00:01:59,236 --> 00:02:00,514
+Don’t tell me you forgot about
+
+44
+00:02:00,538 --> 00:02:02,186
+our Friday night poker game.
+
+45
+00:02:02,716 --> 00:02:05,059
+Well, to tell you the truth...
+
+46
+00:02:05,960 --> 00:02:07,276
+He did.
+
+47
+00:02:07,510 --> 00:02:09,088
+I know that look.
+
+48
+00:02:09,154 --> 00:02:10,808
+You’ve got something on your mind.
+
+49
+00:02:10,832 --> 00:02:12,242
+Don’t we all?
+
+50
+00:02:12,602 --> 00:02:14,459
+We were witness to an amazing display
+
+51
+00:02:14,483 --> 00:02:17,455
+of power and an
+incredible feat of genius.
+
+52
+00:02:17,689 --> 00:02:19,424
+I can’t help but wonder if there are
+
+53
+00:02:19,490 --> 00:02:22,489
+more remnants of that
+unusual alien technology.
+
+54
+00:02:22,870 --> 00:02:24,323
+My money says there is,
+
+55
+00:02:24,347 --> 00:02:25,704
+but what I’m more curious about
+
+56
+00:02:25,728 --> 00:02:27,778
+is what that technology was used for.
+
+57
+00:02:28,012 --> 00:02:30,411
+When you were insisting
+that we activate the device
+
+58
+00:02:30,435 --> 00:02:31,532
+you seemed pretty close
+
+59
+00:02:31,598 --> 00:02:33,168
+to some sort of revelation.
+
+60
+00:02:33,192 --> 00:02:34,843
+It’s like a dream now.
+
+61
+00:02:34,951 --> 00:02:36,733
+You know how the most ridiculous things
+
+62
+00:02:36,800 --> 00:02:38,560
+can seem logical when
+you’re having a dream,
+
+63
+00:02:38,584 --> 00:02:40,541
+but when you wake up you
+can’t make sense of it
+
+64
+00:02:40,607 --> 00:02:42,702
+no matter how hard you try?
+
+65
+00:02:42,768 --> 00:02:45,309
+The way my engineering
+systems kept acting up...
+
+66
+00:02:45,333 --> 00:02:48,615
+that certainly feels more
+like a dream now than reality.
+
+67
+00:02:48,639 --> 00:02:51,108
+At least I wish it was a dream.
+
+68
+00:02:51,384 --> 00:02:53,249
+Well, Prescott thinks it was meant
+
+69
+00:02:53,315 --> 00:02:55,320
+to be some sort of doomsday weapon.
+
+70
+00:02:55,344 --> 00:02:57,779
+I’d rather think that it
+had a more positive use.
+
+71
+00:02:57,971 --> 00:03:00,579
+Quorus Four is a good
+orbital distance from the sun
+
+72
+00:03:00,603 --> 00:03:02,605
+and with a little help
+could be terraformed
+
+73
+00:03:02,671 --> 00:03:04,583
+into a nice little habitable planet.
+
+74
+00:03:04,733 --> 00:03:07,005
+All it would need is a
+good secondary energy source
+
+75
+00:03:07,029 --> 00:03:09,410
+to maintain an ideal
+Class M environment.
+
+76
+00:03:09,434 --> 00:03:13,149
+A logical possibility
+if a bit unromantic.
+
+77
+00:03:13,173 --> 00:03:15,007
+I can imagine that power being used
+
+78
+00:03:15,031 --> 00:03:18,327
+to fuel perhaps a massive
+teleportation device...
+
+79
+00:03:18,393 --> 00:03:20,770
+one that could send entire civilizations
+
+80
+00:03:20,794 --> 00:03:23,241
+to the other side of the known universe.
+
+81
+00:03:23,475 --> 00:03:27,779
+Talk about the ultimate
+mission of first contact...
+

@@ -1,0 +1,646 @@
+1
+00:00:10,742 --> 00:00:12,281
+Where are you taking us?
+
+2
+00:00:12,389 --> 00:00:14,898
+To the brig, of course.
+
+3
+00:00:22,811 --> 00:00:24,233
+Now, Mr. Prescott!
+
+4
+00:00:50,440 --> 00:00:51,674
+Good aim, Commander.
+
+5
+00:00:52,294 --> 00:00:53,741
+Just because I’m a man of science
+
+6
+00:00:53,765 --> 00:00:55,817
+doesn’t mean I can’t handle a phaser.
+
+7
+00:00:57,506 --> 00:00:58,997
+Thanks, RT.
+
+8
+00:00:59,617 --> 00:01:00,677
+Carter here.
+
+9
+00:01:00,743 --> 00:01:01,860
+Just checking in, Jack.
+
+10
+00:01:01,884 --> 00:01:03,329
+Is everything alright over there?
+
+11
+00:01:03,353 --> 00:01:05,791
+It is now. We had a bit of an incident,
+
+12
+00:01:05,815 --> 00:01:07,214
+but everything’s under control.
+
+13
+00:01:07,474 --> 00:01:08,969
+Tell Doc Holley to stand by
+
+14
+00:01:09,035 --> 00:01:10,957
+to receive 3 priority patients.
+
+15
+00:01:11,122 --> 00:01:13,703
+Sir, Captain Glenn is gone.
+
+16
+00:01:13,727 --> 00:01:14,787
+He must have slipped away
+
+17
+00:01:14,832 --> 00:01:16,366
+while we were dealing with these guards.
+
+18
+00:01:16,653 --> 00:01:20,001
+Correction, prepare for
+two priority patients.
+
+19
+00:01:20,366 --> 00:01:23,121
+We’ll be back momentarily. Carter out.
+
+20
+00:01:23,813 --> 00:01:25,251
+Any thoughts, RT?
+
+21
+00:01:25,733 --> 00:01:28,550
+It’s your hand, Jack. How
+do you want to play it?
+
+22
+00:01:28,592 --> 00:01:31,238
+I’m more worried about what
+Glenn has up his sleeve.
+
+23
+00:01:31,304 --> 00:01:33,293
+We don’t have time to track him down.
+
+24
+00:01:33,359 --> 00:01:35,041
+I’ll need you to start analyzing
+
+25
+00:01:35,107 --> 00:01:36,809
+Glenn’s data on those machines.
+
+26
+00:01:37,394 --> 00:01:39,017
+Judging by what we’ve seen already,
+
+27
+00:01:39,041 --> 00:01:40,887
+there isn’t much time.
+
+28
+00:01:40,954 --> 00:01:41,972
+I’m on it.
+
+29
+00:01:42,193 --> 00:01:44,962
+Mr. Prescott. I have a
+feeling we’re going to need you
+
+30
+00:01:45,028 --> 00:01:47,835
+to execute that hostile
+takeover plan we discussed.
+
+31
+00:01:47,859 --> 00:01:49,663
+Let’s go check on
+your guard and get back
+
+32
+00:01:49,687 --> 00:01:51,585
+to the Farragut so you
+can prepare your team.
+
+33
+00:01:51,965 --> 00:01:53,040
+Very well, sir!
+
+34
+00:02:03,144 --> 00:02:04,830
+Is it cold in here to you?
+
+35
+00:02:04,896 --> 00:02:06,981
+It does seem like they’ve
+turned the heat down a bit.
+
+36
+00:02:07,327 --> 00:02:10,437
+Computer, increase the
+temperature by ten degrees.
+
+37
+00:02:11,247 --> 00:02:13,639
+Why do you think these
+guards were acting so bizarre?
+
+38
+00:02:14,036 --> 00:02:16,185
+That’s what I’m trying
+to find out, Ensign.
+
+39
+00:02:16,682 --> 00:02:18,257
+Now if you’re through asking questions,
+
+40
+00:02:18,324 --> 00:02:20,770
+maybe you can assist me with
+the analysis of this data.
+
+41
+00:02:21,419 --> 00:02:22,877
+Maybe I don’t want to help.
+
+42
+00:02:23,153 --> 00:02:25,439
+I was supposed to be
+taking the day off anyway.
+
+43
+00:02:25,463 --> 00:02:28,180
+Are you refusing a direct
+order from your superior?
+
+44
+00:02:28,414 --> 00:02:31,929
+What order? You said
+“maybe” I could help you.
+
+45
+00:02:31,996 --> 00:02:34,007
+Well, “maybe” I don’t want to.
+
+46
+00:02:34,538 --> 00:02:37,369
+That’s true, you didn’t
+actually order him.
+
+47
+00:02:37,848 --> 00:02:39,886
+I don’t think I’m going
+to assist you anymore!
+
+48
+00:02:40,244 --> 00:02:42,345
+You can work out this
+problem by yourself!
+
+49
+00:02:42,742 --> 00:02:44,572
+- What?!
+- You heard me!
+
+50
+00:02:44,802 --> 00:02:47,749
+Ensign, you are relieved of
+duty and confined to quarters!
+
+51
+00:02:47,899 --> 00:02:50,362
+Fine! See if you can do this without me!
+
+52
+00:02:53,323 --> 00:02:54,621
+What have you got, RT?
+
+53
+00:02:54,687 --> 00:02:57,177
+From the tone of your
+message, it must be pretty big.
+
+54
+00:02:57,201 --> 00:02:58,738
+You bet it is, Jack.
+
+55
+00:02:58,888 --> 00:02:59,950
+Let’s have it.
+
+56
+00:02:59,974 --> 00:03:02,278
+Well, we’ve been correct
+all along about one thing.
+
+57
+00:03:02,302 --> 00:03:04,808
+Those devices are drawing
+the gases from the atmosphere
+
+58
+00:03:04,832 --> 00:03:06,576
+and using it as some sort of fuel.
+
+59
+00:03:06,600 --> 00:03:09,101
+The entire planet is
+basically being turned
+
+60
+00:03:09,167 --> 00:03:10,739
+into a gigantic power source.
+
+61
+00:03:11,481 --> 00:03:12,882
+What in heaven’s name would anyone
+
+62
+00:03:12,949 --> 00:03:14,986
+need with such a huge power source?
+
+63
+00:03:15,010 --> 00:03:17,982
+My analysis concludes
+multiple possibilities.
+
+64
+00:03:18,048 --> 00:03:19,335
+Things I never dreamed possible.
+
+65
+00:03:19,359 --> 00:03:22,234
+Things that could change Starfleet
+and the human race forever.
+
+66
+00:03:22,743 --> 00:03:23,787
+I don’t follow.
+
+67
+00:03:23,812 --> 00:03:27,106
+There’s more. Captain Glenn
+has successfully established
+
+68
+00:03:27,172 --> 00:03:29,489
+a remote connection to the
+power generating mechanism.
+
+69
+00:03:29,555 --> 00:03:31,345
+And he’s attempting to activate it.
+
+70
+00:03:32,675 --> 00:03:35,170
+Can he do that? Does
+he have the knowledge?
+
+71
+00:03:35,362 --> 00:03:36,743
+Not in his state of mind.
+
+72
+00:03:36,809 --> 00:03:38,629
+Well, I suppose there’s
+a remote chance of
+
+73
+00:03:38,695 --> 00:03:40,995
+him hitting the right
+combination, but not likely.
+
+74
+00:03:41,062 --> 00:03:42,592
+But if he tries?
+
+75
+00:03:42,658 --> 00:03:44,690
+The results could be
+disastrous for everything
+
+76
+00:03:44,714 --> 00:03:46,500
+within a parsec of this system.
+
+77
+00:03:46,669 --> 00:03:48,294
+That’s all I need to know.
+
+78
+00:03:48,444 --> 00:03:50,430
+It’s imperative that we get both ships
+
+79
+00:03:50,497 --> 00:03:52,906
+as far away from this
+planet as soon as possible.
+
+80
+00:03:52,930 --> 00:03:54,801
+- No!
+- No?
+
+81
+00:03:54,867 --> 00:03:55,959
+We can’t leave yet.
+
+82
+00:03:56,079 --> 00:03:57,378
+Explain.
+
+83
+00:03:57,402 --> 00:03:59,481
+Maybe Glenn can’t activate
+the device properly,
+
+84
+00:03:59,552 --> 00:04:02,087
+but I know I can. I must.
+
+85
+00:04:02,111 --> 00:04:04,787
+The scientific knowledge that
+could be gained is enormous!
+
+86
+00:04:04,812 --> 00:04:06,463
+We can’t risk it.
+
+87
+00:04:06,487 --> 00:04:08,970
+I’m not going to abandon
+this opportunity, Jack.
+
+88
+00:04:08,994 --> 00:04:10,801
+This is what I was meant for.
+
+89
+00:04:10,825 --> 00:04:13,799
+This is the reason I went into
+sciences in the first place.
+
+90
+00:04:13,824 --> 00:04:15,767
+I have to see this through!
+
+91
+00:04:15,791 --> 00:04:17,478
+We’re going to take over the Azrael
+
+92
+00:04:17,502 --> 00:04:20,507
+and both ships are leaving
+the system as soon as possible.
+
+93
+00:04:20,531 --> 00:04:22,397
+This experiment is concluded.
+
+94
+00:04:22,421 --> 00:04:24,192
+That’s an order, Mr. Tacket!
+
+95
+00:04:24,841 --> 00:04:26,792
+Noooo! I won’t let you!
+
+96
+00:04:26,858 --> 00:04:29,497
+Listen to yourself! Look at yourself!
+
+97
+00:04:29,521 --> 00:04:32,178
+This isn’t you, RT! Snap out of it!
+
+98
+00:04:32,412 --> 00:04:35,292
+Iím sorry. I donít
+know what got into me.
+
+99
+00:04:35,316 --> 00:04:37,208
+It was like I wasn’t in control.
+
+100
+00:04:37,669 --> 00:04:39,414
+It’s that damned planet!
+
+101
+00:04:39,848 --> 00:04:41,563
+We’re getting out of here... right now.
+
+102
+00:04:42,284 --> 00:04:43,379
+Carter to Prescott.
+
+103
+00:04:43,487 --> 00:04:44,549
+*Prescott here.*
+
+104
+00:04:44,572 --> 00:04:46,330
+Have your security team
+in the transporter room
+
+105
+00:04:46,354 --> 00:04:48,760
+on the double, armed and ready!
+
+106
+00:04:51,983 --> 00:04:54,552
+Transporter room, prepare
+to beam security detail
+
+107
+00:04:54,576 --> 00:04:56,593
+to the Azrael bridge on my command.
+
+108
+00:04:58,080 --> 00:04:59,979
+Is it cold in here or what?
+
+109
+00:05:00,393 --> 00:05:03,679
+Sir, the Azrael has
+raised their shields.
+
+110
+00:05:03,703 --> 00:05:06,686
+Confirmed. Looks like
+Glenn still has some sense
+
+111
+00:05:06,711 --> 00:05:07,828
+of what’s going on around him.
+
+112
+00:05:10,505 --> 00:05:12,772
+Lt. Taylor, where are you going?
+
+113
+00:05:13,467 --> 00:05:14,902
+I’m taking a break.
+
+114
+00:05:14,927 --> 00:05:16,951
+Time for a swift cuppa
+and a spot of lunch.
+
+115
+00:05:16,975 --> 00:05:18,278
+What’s it to you?!
+
+116
+00:05:18,911 --> 00:05:21,334
+Return to your station
+immediately, mister!
+
+117
+00:05:21,970 --> 00:05:25,696
+I’m sorry, sir. I really
+don’t know what came over me.
+
+118
+00:05:26,152 --> 00:05:29,567
+Mr. Thelin, I want a
+precision attack on the Azrael.
+
+119
+00:05:29,922 --> 00:05:32,420
+Minimum force necessary to
+bring down their shields.
+
+120
+00:05:32,741 --> 00:05:35,662
+As soon as they’re down,
+cease fire immediately.
+
+121
+00:05:36,076 --> 00:05:37,641
+Maneuvering thrusters only.
+
+122
+00:05:37,665 --> 00:05:39,405
+Coming into position now, sir.
+
+123
+00:05:47,354 --> 00:05:48,359
+Evasive!
+
+124
+00:05:48,384 --> 00:05:51,572
+I can’t do it, sir. It’s too difficult.
+
+125
+00:05:51,998 --> 00:05:54,652
+Focus, Thelin! Stay on him!
+
+126
+00:05:54,979 --> 00:05:57,990
+Jack, I’m reading a build-up
+of energy from the planet!
+
+127
+00:05:58,539 --> 00:06:00,195
+I’m aware of that, Robert!
+
+128
+00:06:00,220 --> 00:06:01,687
+Can someone turn up the damn heat
+
+129
+00:06:01,753 --> 00:06:03,334
+in here so I can concentrate?!
+
+130
+00:06:08,454 --> 00:06:10,152
+The Azrael shields are down!
+
+131
+00:06:10,959 --> 00:06:13,009
+Transporter room! Now!
+
+132
+00:06:13,692 --> 00:06:17,519
+The Azrael... it’s firing phasers
+and photon torpedoes again!
+
+133
+00:06:17,543 --> 00:06:19,294
+Shields are at sixty percent!
+
+134
+00:06:21,224 --> 00:06:24,348
+Continue evasive maneuvers,
+but don’t return fire!
+
+135
+00:06:24,372 --> 00:06:26,733
+Just keep us safe for
+a few moments longer!
+
+136
+00:06:38,739 --> 00:06:40,608
+What are you doing here?!
+
+137
+00:06:41,331 --> 00:06:44,659
+Jones, take these
+trespassers to the brig!
+
+138
+00:07:04,601 --> 00:07:06,687
+The Azrael has disarmed.
+
+139
+00:07:07,192 --> 00:07:08,405
+Carter to Prescott.
+
+140
+00:07:09,460 --> 00:07:10,513
+*Prescott here.*
+
+141
+00:07:10,751 --> 00:07:14,120
+I assume that the Azrael’s
+crew was less than cooperative?
+
+142
+00:07:14,641 --> 00:07:19,201
+On the contrary, sir,
+they were very cooperative.
+
+143
+00:07:19,225 --> 00:07:20,727
+*Well, don’t just stand there.*
+
+144
+00:07:20,793 --> 00:07:23,499
+*Get that ship moving and
+follow us out of the system.*
+
+145
+00:07:23,809 --> 00:07:24,850
+Aye, sir.
+
+146
+00:07:25,590 --> 00:07:27,188
+Energy build-up is almost complete!
+
+147
+00:07:27,503 --> 00:07:30,084
+Get us out of here! Warp factor six!
+
