@@ -1,4 +1,4 @@
-1
+﻿1
 00:01:21,616 --> 00:01:26,824
 POWER SOURCE
 
@@ -749,7 +749,7 @@ the Chorus system. Warp factor 6.
 - Course laid in, sir.
 - Engage.
 
-﻿1
+174
 00:10:10,890 --> 00:10:14,160
 Captain’s Log, stardate: 6050.8.
 
@@ -1482,7 +1482,7 @@ Yes, sir, it was.
 Let’s get him back to the Farragut
 and see if we can sort this out.
 
-﻿1
+337
 00:19:35,360 --> 00:19:36,900
 Where are you taking us?
 
@@ -2128,7 +2128,7 @@ Energy build-up is almost complete!
 00:26:52,120 --> 00:26:54,700
 Get us out of here! Warp factor six!
 
-﻿1
+484
 00:27:23,340 --> 00:27:24,930
 Captain’s log, supplemental.
 
