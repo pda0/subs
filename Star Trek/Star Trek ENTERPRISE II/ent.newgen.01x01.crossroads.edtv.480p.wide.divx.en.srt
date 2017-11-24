@@ -1,0 +1,1883 @@
+1
+00:00:29,290 --> 00:00:31,820
+The Enterprise has been back from the
+Expanse for two months.
+
+2
+00:00:32,663 --> 00:00:35,250
+We saved the Earth from the Xindi’s planet killing weapon
+
+3
+00:00:35,250 --> 00:00:38,605
+but the effects of the earlier attack continued to be felt by all.
+
+4
+00:00:38,660 --> 00:00:42,645
+Especially those, that lost family or friends.
+
+5
+00:00:42,670 --> 00:00:44,954
+The Enterprise has been in space-dock for a complete refit.
+
+6
+00:00:44,979 --> 00:00:47,270
+Most of the crew returned from
+much-needed shore-leave,
+
+7
+00:00:47,500 --> 00:00:50,500
+to help test a special addition to the ship.
+
+8
+00:01:03,545 --> 00:01:07,110
+This view still impresses me today,
+as much as it did the very first time.
+
+9
+00:01:07,436 --> 00:01:10,149
+Yeah, I can’t disagree with that
+
+10
+00:01:12,592 --> 00:01:14,457
+I wish my father had lived to see this.
+
+11
+00:01:14,520 --> 00:01:16,572
+Well, I’m sure he’s watching.
+
+12
+00:01:16,763 --> 00:01:17,763
+Thank-you Trip.
+
+13
+00:01:34,420 --> 00:01:37,057
+When Zefram Cochrane experienced
+the first warp flight,
+
+14
+00:01:37,196 --> 00:01:39,686
+it must have been an incredible feeling.
+
+15
+00:01:40,520 --> 00:01:44,340
+Because of his engine, mankind
+is able to explore space.
+
+16
+00:01:46,408 --> 00:01:48,356
+Today, we unveil an update,
+
+17
+00:01:48,420 --> 00:01:51,420
+an engine that will change
+space travel, forever!
+
+18
+00:01:52,968 --> 00:01:56,340
+The trans-mix warp-drive will enable
+us to break the warp five barrier.
+
+19
+00:01:58,770 --> 00:02:02,270
+And it is the honor of the Enterprise,
+to be the first ship to test this new engine.
+
+20
+00:02:04,199 --> 00:02:09,851
+This is our chance to experience some
+of the magic, that Cochrane felt.
+
+21
+00:02:11,014 --> 00:02:15,219
+A toast: May this technology let us boldly go,
+
+22
+00:02:15,219 --> 00:02:18,219
+where no man has gone before.
+
+23
+00:03:31,642 --> 00:03:34,864
+Captain’s star log:
+April 10th, 2154
+
+24
+00:03:36,255 --> 00:03:40,035
+We are underway to the Kasaten-System,
+to test the new trans-mix drive.
+
+25
+00:03:41,128 --> 00:03:45,089
+This historic event is marred only
+by the absences of Ensign Sato,
+
+26
+00:03:45,114 --> 00:03:47,582
+who is attending a lingual
+research conference on Vulcan,
+
+27
+00:03:47,817 --> 00:03:52,302
+and Doctor Phlox, who extended his shore-leave
+to reunite with his son on Denebola.
+
+28
+00:03:52,330 --> 00:03:53,941
+He hasn’t seen him in 10 years.
+
+29
+00:03:54,941 --> 00:03:57,214
+Although it is sad, that they will not be with us,
+
+30
+00:03:57,239 --> 00:03:59,290
+the rest of the crew is looking forward to the test.
+
+31
+00:03:59,306 --> 00:04:01,306
+[Door chime] Computer pause. Enter!
+
+32
+00:04:02,587 --> 00:04:03,357
+Trip?
+
+33
+00:04:03,389 --> 00:04:04,125
+Captain.
+
+34
+00:04:04,150 --> 00:04:06,756
+What can I do for you?
+Is everything okay?
+
+35
+00:04:06,986 --> 00:04:09,545
+Yeah... No!
+
+36
+00:04:09,863 --> 00:04:10,732
+What’s wrong?
+
+37
+00:04:10,779 --> 00:04:13,921
+When the ship was being refitted,
+and I’d returned from Vulcan,
+
+38
+00:04:14,075 --> 00:04:17,286
+I went back to Florida.
+At least what’s left of it.
+
+39
+00:04:17,350 --> 00:04:19,709
+I lost nearly my entire family, Captain.
+
+40
+00:04:19,709 --> 00:04:21,830
+I just can’t believe they’re gone.
+
+41
+00:04:21,920 --> 00:04:27,438
+I understand, Trip. It’s never easy when people
+we love, are suddenly snatched away.
+
+42
+00:04:28,240 --> 00:04:32,436
+My father’s death still weighs on my mind,
+especially on days like this.
+
+43
+00:04:32,814 --> 00:04:39,409
+But we are out here, achieving and exceeding their dreams.
+I think that’s something our families will be proud of.
+
+44
+00:04:39,707 --> 00:04:42,707
+Dammit Captain, I wasn’t
+there when they needed me!
+
+45
+00:04:43,190 --> 00:04:46,360
+I know, but you can still honor their memory, Trip.
+
+46
+00:04:46,870 --> 00:04:50,029
+Today marks a huge step forward for Starfleet.
+
+47
+00:04:50,069 --> 00:04:53,957
+You know she isn’t here to say it;
+I know your sister would be proud of you.
+
+48
+00:04:54,069 --> 00:04:57,010
+Yeah, I guess you’re right.
+
+49
+00:04:57,169 --> 00:04:59,102
+[Intercom] Bridge to Captain.
+
+50
+00:05:00,692 --> 00:05:02,797
+Go ahead, Travis.
+
+51
+00:05:02,924 --> 00:05:05,820
+Sir, we’ve reached the Kasaten system.
+
+52
+00:05:05,933 --> 00:05:07,709
+Alright, Travis, bring us out of warp.
+
+53
+00:05:08,534 --> 00:05:10,484
+Mr. Tucker, are you ready to make history?
+
+54
+00:05:10,580 --> 00:05:12,779
+Aye, Captain - with pleasure.
+
+55
+00:05:20,306 --> 00:05:21,306
+Status?
+
+56
+00:05:21,370 --> 00:05:24,156
+Sir, we’re in position reading full stop.
+
+57
+00:05:24,220 --> 00:05:28,110
+Plot a course for the nebula, Ensign.
+Trip, is the new system online?
+
+58
+00:05:28,110 --> 00:05:31,260
+Aye Captain. Engage the engine, Mr. Mayweather.
+
+59
+00:05:32,101 --> 00:05:33,260
+Aye, sir.
+
+60
+00:05:39,817 --> 00:05:40,817
+Warp one.
+
+61
+00:05:42,320 --> 00:05:43,735
+Warp two.
+
+62
+00:05:44,760 --> 00:05:45,760
+Warp three.
+
+63
+00:05:47,189 --> 00:05:48,350
+Warp four.
+
+64
+00:05:49,209 --> 00:05:50,368
+Warp five
+
+65
+00:05:51,527 --> 00:05:52,927
+Warp five point five.
+
+66
+00:05:54,050 --> 00:05:57,030
+This is faster than any human has ever traveled!
+
+67
+00:06:05,513 --> 00:06:07,863
+Trip how’s it going?
+Can we push it any further?
+
+68
+00:06:08,073 --> 00:06:10,754
+It’s all looking good, ready for warp six, sir.
+
+69
+00:06:11,906 --> 00:06:14,488
+Travis, you heard the man, increase speed.
+
+70
+00:06:14,671 --> 00:06:15,671
+Yes, sir!
+
+71
+00:06:23,556 --> 00:06:24,656
+Report?
+
+72
+00:06:24,846 --> 00:06:27,834
+Dammit, the engines are overloading.
+
+73
+00:06:28,920 --> 00:06:30,301
+Travis, take it offline.
+
+74
+00:06:30,326 --> 00:06:31,691
+No response!
+
+75
+00:06:31,716 --> 00:06:35,110
+Captain, the data relay is fine.
+I can’t shut it down!
+
+76
+00:06:35,954 --> 00:06:39,514
+Captain,  engineering reports core breech is imminent.
+
+77
+00:06:39,539 --> 00:06:41,898
+I’ll have to bypass a relay,
+this will take a minute.
+
+78
+00:06:42,375 --> 00:06:44,517
+Trip, we don’t have time, hurry!
+
+79
+00:06:44,867 --> 00:06:47,957
+Core breech in, ten seconds.
+
+80
+00:06:52,707 --> 00:06:53,835
+Five!
+
+81
+00:06:54,603 --> 00:06:55,618
+Trip!!
+
+82
+00:06:55,962 --> 00:06:57,430
+Four.
+
+83
+00:06:59,255 --> 00:07:00,278
+Three.
+
+84
+00:07:02,025 --> 00:07:02,815
+I got it!
+
+85
+00:07:02,840 --> 00:07:04,358
+NOW, Travis.
+
+86
+00:07:16,380 --> 00:07:17,589
+Damage report?
+
+87
+00:07:17,630 --> 00:07:22,257
+Warp engines are offline, we’re down to impulse only.
+There is severe damage to the hull plating.
+
+88
+00:07:22,565 --> 00:07:24,822
+Trip, would you mind telling me,
+what the hell happened?
+
+89
+00:07:25,006 --> 00:07:29,787
+Sir, I can’t explain it. The new engines
+shoulda reached warp 6.5, easily.
+
+90
+00:07:29,865 --> 00:07:33,635
+I want a damage analysis.
+Travis, where are we?
+
+91
+00:07:33,660 --> 00:07:36,660
+We’ve reached the Kasaten nebula,
+but something’s wrong!
+
+92
+00:07:37,329 --> 00:07:40,640
+Sensors indicate, that the nebula is a
+completely different shape and size
+
+93
+00:07:40,640 --> 00:07:42,360
+than what’s recorded in our star charts!
+
+94
+00:07:42,818 --> 00:07:43,951
+What do you mean?
+
+95
+00:07:44,055 --> 00:07:47,472
+Either it’s a sensor glitch, or
+we’re in a different part of space.
+
+96
+00:07:47,702 --> 00:07:49,344
+Mr. Mayweather is correct,
+
+97
+00:07:50,294 --> 00:07:52,829
+we’re no longer in the Kasaten system.
+
+98
+00:07:52,854 --> 00:07:54,181
+Then where are we?
+
+99
+00:07:54,793 --> 00:07:56,023
+Unknown...
+
+100
+00:07:57,419 --> 00:08:01,930
+It is possible that the imbalance of the engine,
+created a subspace vortex,
+
+101
+00:08:02,192 --> 00:08:05,720
+which sent us to another destination,
+but left the navigation computer
+
+102
+00:08:05,720 --> 00:08:07,991
+believing that we are at the intended coordinates.
+
+103
+00:08:08,038 --> 00:08:08,915
+Are you sure?
+
+104
+00:08:08,940 --> 00:08:10,687
+It is only a hypothesis.
+
+105
+00:08:11,180 --> 00:08:15,747
+Captain, long-range senses just
+picked up a ship. Seems to be adrift.
+
+106
+00:08:15,804 --> 00:08:17,001
+What kind of ship?
+
+107
+00:08:17,065 --> 00:08:18,532
+Unknown configuration.
+
+108
+00:08:19,523 --> 00:08:20,490
+T’Pol?
+
+109
+00:08:20,515 --> 00:08:23,170
+It matches no ship in the
+Vulcan database, Captain.
+
+110
+00:08:23,692 --> 00:08:24,997
+Open a channel.
+
+111
+00:08:25,632 --> 00:08:29,870
+This is Captain Johnathan Archer
+of the USS Enterprise, can you hear me?
+
+112
+00:08:30,053 --> 00:08:31,515
+No response.
+
+113
+00:08:31,650 --> 00:08:33,261
+Scan for bio-signs.
+
+114
+00:08:33,462 --> 00:08:34,810
+Negative, Captain.
+
+115
+00:08:34,961 --> 00:08:37,204
+Ensign, set a course for the ship.
+
+116
+00:08:37,493 --> 00:08:39,056
+I want to take a closer look.
+
+117
+00:08:39,177 --> 00:08:40,294
+Aye, sir.
+
+118
+00:08:51,970 --> 00:08:53,610
+Fascinating!
+
+119
+00:08:53,714 --> 00:08:54,811
+What is it, Commander?
+
+120
+00:08:54,875 --> 00:08:57,427
+The planet we are passing is Minshara class.
+
+121
+00:08:57,541 --> 00:08:58,541
+What about it?
+
+122
+00:08:58,699 --> 00:09:00,850
+I am not reading any life-signs.
+
+123
+00:09:01,857 --> 00:09:04,466
+Not even bacteria or microbes.
+
+124
+00:09:04,961 --> 00:09:07,355
+An ecological disaster?
+
+125
+00:09:07,586 --> 00:09:08,586
+No!
+
+126
+00:09:09,568 --> 00:09:12,586
+Such an event would have left obvious signs.
+
+127
+00:09:12,620 --> 00:09:14,546
+Captain, we’re approaching the ship.
+
+128
+00:09:27,643 --> 00:09:30,553
+Looks like it took, one hell of a beating.
+
+129
+00:09:30,760 --> 00:09:34,550
+Ship is designated: "Enterprise"
+
+130
+00:09:35,028 --> 00:09:38,377
+Check long-range sensors.
+Are there any more ships in the system?
+
+131
+00:09:38,457 --> 00:09:40,620
+Negative, we’re the only ones, here.
+
+132
+00:09:41,343 --> 00:09:42,890
+Is the transporter online?
+
+133
+00:09:42,950 --> 00:09:44,791
+I want to go over there and take a look around.
+
+134
+00:09:44,822 --> 00:09:47,995
+Yes, it received only minor damage.
+
+135
+00:09:48,643 --> 00:09:51,949
+Let’s suit up then.
+Malcolm, you have the Conn.
+
+136
+00:09:52,000 --> 00:09:56,357
+Sir, I don’t think it’s wise for you to go without a
+security team. We don’t know what’s over there.
+
+137
+00:09:56,430 --> 00:10:00,250
+I need you on Enterprise, Lieutenant,
+in case we get unexpected company.
+
+138
+00:10:00,313 --> 00:10:02,516
+Aye, Captain.
+
+139
+00:10:13,810 --> 00:10:19,310
+[T’Pol] From these readings, I estimate the ship
+has been here for approximately five years.
+
+140
+00:10:20,860 --> 00:10:23,420
+The internal damage,
+isn’t as bad as I expected.
+
+141
+00:10:23,491 --> 00:10:29,531
+Yes, it would seem they were under
+attack for a short period, only
+
+142
+00:10:29,617 --> 00:10:31,697
+before effecting a retreat.
+
+143
+00:10:34,463 --> 00:10:35,486
+Captain?
+
+144
+00:10:36,601 --> 00:10:38,042
+What is it?
+
+145
+00:10:40,399 --> 00:10:43,399
+According to the bio-scanner, it’s a human.
+
+146
+00:10:44,160 --> 00:10:47,246
+What? How did a human get this far out?
+
+147
+00:10:47,962 --> 00:10:49,872
+Unknown.
+
+148
+00:10:49,985 --> 00:10:54,075
+Scans indicate this vessel
+is made of unknown alloys.
+
+149
+00:10:54,414 --> 00:10:58,932
+I wonder what they were doing here.
+Why were you attacked?
+
+150
+00:11:04,807 --> 00:11:10,973
+Captain, there is another here.
+This one’s Vulcan.
+
+151
+00:11:21,130 --> 00:11:22,330
+[Red alert klaxon]
+
+152
+00:11:22,425 --> 00:11:23,425
+[screams]
+
+153
+00:11:23,709 --> 00:11:24,987
+[Kirk] Sulu, get us out of here.
+
+154
+00:11:25,012 --> 00:11:26,289
+[Sulu] We’re losing power, Captain.
+
+155
+00:11:26,345 --> 00:11:27,888
+[Kirk] Mr. Scott, what’s going on?
+
+156
+00:11:27,921 --> 00:11:31,181
+[Scotty] We’re a sitting duck, Captain.
+There’s nothing we can do.
+
+157
+00:11:31,206 --> 00:11:34,386
+These metal creatures are
+tearing our engines apart.
+
+158
+00:11:40,044 --> 00:11:42,407
+T’Pol, are you okay?
+
+159
+00:11:42,988 --> 00:11:45,152
+I know what happened, here.
+
+160
+00:11:46,816 --> 00:11:50,366
+They were attacked, by a species
+
+161
+00:11:51,763 --> 00:11:53,898
+called the "Red Empire."
+
+162
+00:12:05,266 --> 00:12:10,107
+What the hell is this Red Empire?
+What happened to you back on the ship?
+
+163
+00:12:10,384 --> 00:12:12,470
+When I touched, the dead Vulcan,
+
+164
+00:12:13,149 --> 00:12:18,185
+I had some kind of vision,
+almost like mind-meld.
+
+165
+00:12:20,013 --> 00:12:21,710
+I saw what happened to them.
+
+166
+00:12:22,446 --> 00:12:23,446
+And?
+
+167
+00:12:26,979 --> 00:12:30,079
+[Spock] T’Pol, hear us...
+
+168
+00:12:31,048 --> 00:12:32,375
+Are you alright, Commander?
+
+169
+00:12:32,400 --> 00:12:36,060
+Yes..., yes I’m fine.
+
+170
+00:12:36,277 --> 00:12:38,121
+I think you should go to sick bay.
+
+171
+00:12:38,260 --> 00:12:44,145
+No, I’ll return to my quarters
+and rest, and meditate.
+
+172
+00:12:44,963 --> 00:12:47,200
+[Interkom beep] Tucker to Archer.
+
+173
+00:12:49,438 --> 00:12:50,472
+Yes, Commander.
+
+174
+00:12:50,758 --> 00:12:54,348
+Could you come down to engineering, Captain.
+I’ve got something to show you.
+
+175
+00:12:54,714 --> 00:12:55,729
+On my way.
+
+176
+00:13:11,130 --> 00:13:12,870
+What have you got for me?
+
+177
+00:13:14,269 --> 00:13:16,399
+It’s the warp coils, sir.
+
+178
+00:13:16,493 --> 00:13:17,675
+What’s wrong with them?
+
+179
+00:13:17,794 --> 00:13:19,366
+It was no accident, they overloaded.
+
+180
+00:13:19,374 --> 00:13:21,307
+You mean they were sabotaged?
+
+181
+00:13:21,333 --> 00:13:23,275
+At a guess, I’d say so Captain.
+
+182
+00:13:23,436 --> 00:13:24,690
+What’s the evidence?
+
+183
+00:13:24,750 --> 00:13:29,518
+The warp field was calibrated to collapse at warp 6.
+The coil burned out and the engine overloaded.
+
+184
+00:13:29,613 --> 00:13:34,421
+Now, none of my crew have been near the thing,
+since the core of engineers installed it, back in Starfleet.
+
+185
+00:13:35,278 --> 00:13:36,440
+Are you certain, Trip?
+
+186
+00:13:36,860 --> 00:13:41,785
+Captain, I checked the data. Someone
+aboard this ship wanted this test to fail.
+
+187
+00:13:41,810 --> 00:13:45,090
+I just don’t understand.
+Why would anyone do this?
+
+188
+00:13:45,090 --> 00:13:46,285
+Perhaps it was the Suliban?
+
+189
+00:13:46,334 --> 00:13:48,992
+No, the temporal cold war is over.
+
+190
+00:13:49,143 --> 00:13:52,540
+They’ve nothing to gain.
+This was someone else.
+
+191
+00:13:52,723 --> 00:13:53,723
+Well who?
+
+192
+00:13:53,961 --> 00:13:56,700
+I don’t know Trip, but I intend to find out.
+
+193
+00:13:59,833 --> 00:14:02,122
+[Spock] T’Pol, come to us.
+
+194
+00:14:02,186 --> 00:14:03,336
+Who are you?
+
+195
+00:14:03,410 --> 00:14:07,917
+[Kirk] We are the echo of lost souls.
+You are in great danger...
+
+196
+00:14:37,050 --> 00:14:38,994
+Where are you?
+
+197
+00:14:39,782 --> 00:14:43,462
+[Spock] We’re inside your mind, it is
+necessary that we speak with you.
+
+198
+00:14:45,207 --> 00:14:47,812
+Do not play games.
+
+199
+00:14:48,600 --> 00:14:50,396
+Show yourselves.
+
+200
+00:15:19,064 --> 00:15:20,779
+[T’Pol] What have you done to our ship?
+
+201
+00:15:20,858 --> 00:15:22,265
+[Spock] We are not responsible.
+
+202
+00:15:22,312 --> 00:15:25,265
+[Kirk] Your Enterprise is inside the time-mirror.
+
+203
+00:15:25,290 --> 00:15:29,123
+An inter-dimensional rift where
+many parallel universes, intersect.
+
+204
+00:15:29,148 --> 00:15:31,885
+Then you are from one of
+these parallel universes?
+
+205
+00:15:31,940 --> 00:15:35,403
+Yes, one very much like your own.
+But ours took a different path.
+
+206
+00:15:35,428 --> 00:15:40,204
+[Scotty] Captain, we don’t have much time.
+Tell her about the "Red Empire."
+
+207
+00:15:40,217 --> 00:15:43,368
+I’ve heard that name before.
+Who are they?
+
+208
+00:15:43,369 --> 00:15:46,514
+They’re machines from a different
+universe with only one goal:
+
+209
+00:15:46,515 --> 00:15:49,587
+The destruction of all biological lifeforms.
+
+210
+00:15:49,588 --> 00:15:53,752
+They were created by a cruel and arrogant
+version of our own Terran Empire,
+
+211
+00:15:53,753 --> 00:15:58,767
+to serve humanity. But their control over them
+was lost and they escaped into the Time-Mirror.
+
+212
+00:15:58,768 --> 00:16:03,459
+When your ship tested it’s new drive, it opened
+the rift for them into your universe, lassie!
+
+213
+00:16:03,819 --> 00:16:06,616
+Now the robots are massing
+an invasion force!
+
+214
+00:16:06,617 --> 00:16:10,084
+But first they need information on
+the civilizations of your universe.
+
+215
+00:16:10,085 --> 00:16:13,045
+Planetary  co-ordinates,
+bio-data, technology.
+
+216
+00:16:13,046 --> 00:16:16,065
+All your strengths and
+weaknesses ready to exploit.
+
+217
+00:16:16,280 --> 00:16:17,361
+What can we do?
+
+218
+00:16:17,424 --> 00:16:20,666
+Return to your universe
+and seal the tear in the rift.
+
+219
+00:16:21,301 --> 00:16:22,301
+It’s the only way.
+
+220
+00:16:22,523 --> 00:16:23,772
+We can’t get back!
+
+221
+00:16:24,364 --> 00:16:29,435
+Even if we knew how to recreate the exact
+conditions of the accident that brought us here,
+
+222
+00:16:29,530 --> 00:16:32,961
+the warp-drive is still non-operational.
+
+223
+00:16:32,962 --> 00:16:37,209
+You’re being here is no accident.
+This was carefully planned.
+
+224
+00:16:37,392 --> 00:16:39,744
+Someone is hiding
+aboard your ship.
+
+225
+00:16:39,887 --> 00:16:42,879
+Tell me how to get the
+engine back online.
+
+226
+00:16:43,085 --> 00:16:47,110
+A Red Empire vessel that uses the same
+type of warp-coil as your new drive!
+
+227
+00:16:47,111 --> 00:16:49,080
+They will attack your ship as it did ours.
+
+228
+00:16:49,081 --> 00:16:53,960
+If you can deactivate their shields, you can
+steal theirs right from under their metal noses!
+
+229
+00:16:53,961 --> 00:16:57,395
+Mr. Spock will give you the data we
+collected on their ship during our battle.
+
+230
+00:16:57,396 --> 00:16:58,802
+Very well.
+
+231
+00:16:58,827 --> 00:17:00,280
+Time is of the essence.
+
+232
+00:17:00,281 --> 00:17:04,406
+You must return now.
+Long life and prosperity, T’Pol.
+
+233
+00:17:10,071 --> 00:17:11,598
+[door chime]
+
+234
+00:17:17,989 --> 00:17:20,787
+[door opening]
+
+235
+00:17:25,204 --> 00:17:27,032
+T’Pol!
+
+236
+00:17:27,033 --> 00:17:30,323
+Commander?
+
+237
+00:17:31,591 --> 00:17:32,703
+Hello?
+
+238
+00:17:47,793 --> 00:17:48,793
+[Kiss]
+
+239
+00:17:49,793 --> 00:17:52,428
+Hello to you, too!
+Now where the hell have you been?
+
+240
+00:17:52,429 --> 00:17:55,548
+I was contacted by
+the derelict’s dead crew.
+
+241
+00:17:55,617 --> 00:17:56,347
+What?
+
+242
+00:17:56,372 --> 00:17:58,307
+They told me our
+ship was sabotaged.
+
+243
+00:17:58,332 --> 00:18:01,270
+Yeah, we know. Someone
+tampered with the warp-field!
+
+244
+00:18:01,498 --> 00:18:02,958
+What else did you find out?
+
+245
+00:18:02,983 --> 00:18:08,467
+Commander, we’ve been thrown into a rift,
+where parallel universes converge.
+
+246
+00:18:08,468 --> 00:18:10,256
+Are you feelin’ all right?
+
+247
+00:18:10,492 --> 00:18:13,580
+A race of machines from one of those
+worlds has been trapped here
+
+248
+00:18:13,581 --> 00:18:15,675
+and now they plan
+to invade ours!
+
+249
+00:18:15,676 --> 00:18:17,566
+They used Enterprise to open the door
+
+250
+00:18:17,567 --> 00:18:23,057
+and now they want the information from
+the ship’s data-core to prepare their invasion.
+
+251
+00:18:23,058 --> 00:18:25,026
+An invasion. Of Earth?!
+
+252
+00:18:25,051 --> 00:18:27,223
+Not just the Earth.
+
+253
+00:18:27,224 --> 00:18:28,979
+Our entire galaxy.
+
+254
+00:18:29,004 --> 00:18:30,517
+We gotta warn the Capt’n!
+
+255
+00:18:30,518 --> 00:18:33,993
+The "red" agent who sabotaged
+the engine, is still on board.
+
+256
+00:18:34,818 --> 00:18:39,170
+They can manipulate the human mind.
+It could be in anyone.
+
+257
+00:18:39,171 --> 00:18:41,269
+You don’t suspect
+Captain Archer, do you?
+
+258
+00:18:41,294 --> 00:18:42,294
+Commander.
+
+259
+00:18:43,109 --> 00:18:45,850
+The stakes are too high to take any risks!
+
+260
+00:18:45,851 --> 00:18:49,198
+I have to be sure he’s the
+real Archer, first!
+
+261
+00:18:49,199 --> 00:18:50,991
+So why did you trust me?!
+
+262
+00:18:51,016 --> 00:18:52,207
+The kiss.
+
+263
+00:18:52,208 --> 00:18:57,330
+We have a telepathic bond, remember?
+I would have known immediately.
+
+264
+00:18:58,576 --> 00:19:00,484
+OK, so what do we do?
+
+265
+00:19:00,509 --> 00:19:02,022
+I know how to
+repair our engines,
+
+266
+00:19:02,023 --> 00:19:06,574
+but first we have to get to the bridge
+and stop them from stealing our data.
+
+267
+00:19:06,575 --> 00:19:08,680
+I hope you’re right about all this!
+
+268
+00:19:21,014 --> 00:19:23,327
+Sir, a ship is approaching!
+
+269
+00:19:23,352 --> 00:19:24,447
+Configuration?
+
+270
+00:19:24,701 --> 00:19:25,788
+Unknown.
+
+271
+00:19:27,442 --> 00:19:29,672
+Reed, full tactical analysis!
+
+272
+00:19:29,697 --> 00:19:31,938
+12 torpedo-batteries;
+8 phaser banks!
+
+273
+00:19:31,973 --> 00:19:33,919
+Their hull-plating is made of
+an unknown alloy.
+
+274
+00:19:33,920 --> 00:19:37,152
+And their primary and secondary shields
+are set to a rotating frequency.
+
+275
+00:19:37,827 --> 00:19:40,673
+I’ve never seen a vessel that heavily armed, sir!
+
+276
+00:19:41,076 --> 00:19:44,579
+Captain, I have to talk to you.
+
+277
+00:19:48,429 --> 00:19:50,834
+He is Jonathan Archer!
+
+278
+00:19:52,600 --> 00:19:54,945
+T’Pol, what is it?
+
+279
+00:19:54,970 --> 00:19:57,923
+That is the ship that
+attacked the derelict.
+
+280
+00:19:57,924 --> 00:20:00,800
+You mean that’s this, "Red Empire"?
+
+281
+00:20:00,801 --> 00:20:04,063
+Yes. We have to protect our data-core.
+
+282
+00:20:04,792 --> 00:20:06,167
+Lieutenant Reed!
+
+283
+00:20:09,549 --> 00:20:12,622
+[computer voice]
+Accessing communication protocol.
+
+284
+00:20:13,329 --> 00:20:15,724
+[computer voice]
+Access granted.
+
+285
+00:20:15,795 --> 00:20:18,604
+[computer voice]
+Preparing transfer of data.
+
+286
+00:20:19,635 --> 00:20:21,974
+[computer voice]
+Transfer commencing.
+
+287
+00:20:25,219 --> 00:20:27,255
+Captain it’s too late.
+They’ve accessed the core!
+
+288
+00:20:27,256 --> 00:20:30,046
+They’re copying all the data
+we acquired in the past 3 years.
+
+289
+00:20:30,047 --> 00:20:31,666
+T’Pol, stop that transfer!
+
+290
+00:20:31,691 --> 00:20:32,915
+They’re charging weapons!
+
+291
+00:20:33,714 --> 00:20:34,978
+Too late, they’re firing!
+
+292
+00:20:35,003 --> 00:20:36,109
+Brace for impact!
+
+293
+00:20:41,564 --> 00:20:42,564
+[Explosion]
+
+294
+00:20:43,572 --> 00:20:45,281
+[Tactical alert klaxon]
+
+295
+00:20:45,416 --> 00:20:47,554
+Captain, I’m unable to stop the transfer.
+
+296
+00:20:48,066 --> 00:20:49,408
+The port is locked.
+
+297
+00:20:49,433 --> 00:20:50,417
+Damage report!
+
+298
+00:20:50,442 --> 00:20:54,665
+Heavy damage on the exterior hull.
+New emergency force-fields are holding.
+
+299
+00:20:55,333 --> 00:20:56,850
+There’s another ship approaching!
+
+300
+00:20:58,149 --> 00:20:59,931
+[Titan drops out of warp]
+
+301
+00:21:03,579 --> 00:21:04,869
+They are hailing us.
+
+302
+00:21:04,894 --> 00:21:05,909
+On screen.
+
+303
+00:21:06,918 --> 00:21:07,956
+Audio only?
+
+304
+00:21:07,981 --> 00:21:09,136
+Open a channel!
+
+305
+00:21:10,398 --> 00:21:13,080
+[Kirk] "Looks like you need
+some help, Captain Archer."
+
+306
+00:21:13,105 --> 00:21:14,659
+How do you know my name?
+
+307
+00:21:14,660 --> 00:21:16,683
+"We also know, you’re
+from another universe"
+
+308
+00:21:16,684 --> 00:21:17,884
+How?
+
+309
+00:21:18,330 --> 00:21:20,226
+There’s no time for explanations!
+
+310
+00:21:22,096 --> 00:21:25,975
+You’ve only got one chance to get
+back home and protect your world!
+
+311
+00:21:26,998 --> 00:21:30,193
+We’re gonna help you destroy
+that ship and the data it stole!
+
+312
+00:21:30,194 --> 00:21:32,670
+I don’t think this is a fight we can win!
+
+313
+00:21:32,671 --> 00:21:34,438
+They’re too well armed.
+
+314
+00:21:34,463 --> 00:21:35,964
+"You don’t have a
+choice, Mister!"
+
+315
+00:21:35,965 --> 00:21:39,390
+"Either we take out that ship,
+or it’s the end of everything!"
+
+316
+00:21:40,064 --> 00:21:41,429
+"For all of us!"
+
+317
+00:21:41,582 --> 00:21:42,892
+"Titan out."
+
+318
+00:21:43,509 --> 00:21:44,813
+What do you think, T’Pol?
+
+319
+00:21:44,814 --> 00:21:50,867
+The Red Empire’s ship uses the same type
+of warp-coil as our own Transmix-drive.
+
+320
+00:21:51,489 --> 00:21:55,050
+If we set our phasers to a
+different frequency from the Titan’s
+
+321
+00:21:55,085 --> 00:22:00,341
+our combined firepower may be
+able to destabilize their shields long enough
+
+322
+00:22:00,342 --> 00:22:04,160
+to beam out the coil
+and take their engines offline.
+
+323
+00:22:04,161 --> 00:22:05,682
+Very well.
+
+324
+00:22:05,683 --> 00:22:06,770
+Tactical alert!
+
+325
+00:22:17,122 --> 00:22:19,389
+We’re packing quite a punch, sir.
+
+326
+00:22:19,598 --> 00:22:22,693
+Our exterior hull isn’t going to
+last long under this kind of assault!
+
+327
+00:22:22,737 --> 00:22:25,260
+Ensign, execute maneuver Delta-3.
+
+328
+00:22:25,261 --> 00:22:28,617
+Reed; phasers to maximum.
+Fire at will!
+
+329
+00:22:36,851 --> 00:22:41,579
+[Multiple explosions on the bridge]
+
+330
+00:22:43,768 --> 00:22:47,164
+Heavy damage to the hull plating!
+Phaser power down to 40 percent!
+
+331
+00:22:47,669 --> 00:22:50,011
+Life-support at 50 percent.
+
+332
+00:22:50,036 --> 00:22:51,342
+What about their shields?
+
+333
+00:22:51,901 --> 00:22:52,869
+Unaffected.
+
+334
+00:22:52,894 --> 00:22:55,506
+Dammit! T’Pol, divert
+life-support to weapons!
+
+335
+00:22:55,507 --> 00:22:57,194
+Travis: Omega-4!
+
+336
+00:23:17,216 --> 00:23:18,718
+We’ve lost hull plating!
+
+337
+00:23:18,854 --> 00:23:20,494
+One of our nacelles is gone!
+
+338
+00:23:20,701 --> 00:23:22,739
+Hull breaches on decks C, D and E!
+
+339
+00:23:22,740 --> 00:23:24,432
+Seal those areas!
+
+340
+00:23:24,457 --> 00:23:25,698
+I can’t, there’s
+not enough power!
+
+341
+00:23:25,699 --> 00:23:29,191
+We’re losing atmosphere!
+Another direct hit will finish us, Captain!
+
+342
+00:23:30,052 --> 00:23:31,976
+T’Pol, raise the Titan!
+
+343
+00:23:32,001 --> 00:23:32,668
+"Captain?"
+
+344
+00:23:32,669 --> 00:23:34,960
+Our ship’s not gonna last much longer, Titan.
+
+345
+00:23:34,961 --> 00:23:37,070
+There’s no point in dying for nothing!
+
+346
+00:23:37,071 --> 00:23:40,882
+I suggest we retreat while we
+still can and make another plan!
+
+347
+00:23:40,883 --> 00:23:43,003
+"We have to destroy them, Jonathan! "
+
+348
+00:23:43,004 --> 00:23:45,416
+"Yours is not the only universe at stake here."
+
+349
+00:23:45,417 --> 00:23:48,994
+"If they gain themselves a foothold,
+their forces will be unstoppable!"
+
+350
+00:23:48,995 --> 00:23:53,143
+If we could just disrupt their shields for a
+moment, we could beam out their warp coil.
+
+351
+00:23:53,144 --> 00:23:54,805
+They’d be dead in the water!
+
+352
+00:23:54,830 --> 00:23:56,356
+"There’s only one
+thing we can do:"
+
+353
+00:23:56,357 --> 00:23:59,333
+"Retreat, but stay
+within transporter range."
+
+354
+00:23:59,947 --> 00:24:02,000
+"You’re going to
+get your coil."
+
+355
+00:24:02,025 --> 00:24:03,048
+What are you doing?
+
+356
+00:24:03,272 --> 00:24:05,291
+[T´Pol] He stopped transmitting.
+
+357
+00:24:06,272 --> 00:24:08,037
+[huge explosion]
+
+358
+00:24:11,498 --> 00:24:14,072
+Reverse course!
+Get us out of here!
+
+359
+00:24:14,097 --> 00:24:16,155
+Sir, I think I know
+what he’s planning.
+
+360
+00:24:16,727 --> 00:24:18,024
+On screen!
+
+361
+00:24:26,239 --> 00:24:27,826
+The Titan’s shields are down!
+
+362
+00:24:27,851 --> 00:24:29,333
+Beam that coil out!
+
+363
+00:24:32,440 --> 00:24:34,976
+[Transporter operating]
+Got it, Capt’n!
+
+364
+00:24:34,977 --> 00:24:36,886
+Full impulse, Ensign!
+
+365
+00:24:41,605 --> 00:24:43,279
+[explosion]
+
+366
+00:24:44,159 --> 00:24:47,125
+Captain we have a level-3 shock-wave,
+heading straight for us!
+
+367
+00:24:47,126 --> 00:24:48,695
+Can we outrun it?
+
+368
+00:24:48,720 --> 00:24:50,753
+No chance! It’s too fast!
+
+369
+00:24:50,754 --> 00:24:52,002
+Brace for impact!
+
+370
+00:25:43,975 --> 00:25:47,133
+[computer voice]
+Accessing communication protocol.
+
+371
+00:25:47,309 --> 00:25:49,488
+[computer voice]
+Access granted.
+
+372
+00:25:50,359 --> 00:25:53,017
+[computer voice]
+Preparing transfer of data.
+
+373
+00:25:53,943 --> 00:25:56,584
+[computer voice]
+Transfer commencing.
+
+374
+00:25:56,969 --> 00:25:58,654
+[computer voice]
+Transfer complete.
+
+375
+00:25:58,655 --> 00:26:01,979
+[groans]
+
+376
+00:26:18,799 --> 00:26:20,626
+Report!
+
+377
+00:26:22,752 --> 00:26:25,392
+Heavy damage to the exterior hull.
+
+378
+00:26:25,393 --> 00:26:27,530
+Engines and weapons are offline.
+
+379
+00:26:28,263 --> 00:26:31,323
+Any other ships in this sector?!
+
+380
+00:26:31,348 --> 00:26:32,660
+Mr. Mayweather?
+
+381
+00:26:32,685 --> 00:26:34,043
+Ah, no...
+
+382
+00:26:34,425 --> 00:26:37,091
+No other vessels.
+We’re alone!
+
+383
+00:26:37,092 --> 00:26:40,097
+Trip, how long before
+we can have our engines back?
+
+384
+00:26:40,616 --> 00:26:41,802
+Hard to tell Capt’n!
+
+385
+00:26:41,803 --> 00:26:44,183
+48 hours repairs;
+then there’s a new coil:
+
+386
+00:26:44,184 --> 00:26:46,405
+We’re talking three,
+maybe four days?!
+
+387
+00:26:46,406 --> 00:26:49,563
+Let’s hope our enemies don’t return!
+
+388
+00:26:50,402 --> 00:26:53,202
+Captain’s log; supplemental:
+
+389
+00:26:53,203 --> 00:26:55,790
+We successfully managed to
+install the warp coil we captured
+
+390
+00:26:55,791 --> 00:26:59,814
+from the red Empire’s ship. Cmdr Tucker
+is hopeful it will get us home.
+
+391
+00:27:00,836 --> 00:27:03,318
+I’m still puzzled over the
+identity of the Titan-crew
+
+392
+00:27:03,319 --> 00:27:05,352
+and how they knew so much about us.
+
+393
+00:27:05,980 --> 00:27:07,504
+Perhaps we’ll never know.
+
+394
+00:27:08,140 --> 00:27:11,502
+But their sacrifice saved our lives
+and will not be forgotten.
+
+395
+00:27:12,673 --> 00:27:16,823
+Another thing that troubles me
+is the alien saboteur aboard our ship.
+
+396
+00:27:16,824 --> 00:27:21,438
+And despite extensive searching,
+we have not yet been able to locate!
+
+397
+00:27:21,439 --> 00:27:23,727
+[door chime]
+Computer: Pause!
+
+398
+00:27:23,728 --> 00:27:24,995
+Enter!
+[doors opening]
+
+399
+00:27:24,996 --> 00:27:27,052
+Capt’n the Transmix-drive
+is back online
+
+400
+00:27:27,053 --> 00:27:29,393
+but it’s gonna take several
+weeks to repair that other nacelle.
+
+401
+00:27:29,394 --> 00:27:32,705
+Good work, Trip!
+I’m afraid we can’t wait that long.
+
+402
+00:27:33,218 --> 00:27:35,648
+I want you to put this place
+behind us, as soon as possible!
+
+403
+00:27:35,861 --> 00:27:38,576
+Prepare to go to
+warp 1, in one hour!
+
+404
+00:27:38,601 --> 00:27:39,813
+Aye, aye, sir!
+
+405
+00:27:52,589 --> 00:27:55,475
+We’ve experienced a lot in the
+last three years...
+
+406
+00:27:55,476 --> 00:27:58,016
+We lost allies, friends and family.
+
+407
+00:27:58,017 --> 00:28:02,117
+We made it home every time.
+And we’ll make it back this time, too!
+
+408
+00:28:03,967 --> 00:28:06,712
+I’m proud to be the captain
+of such a valiant crew!
+
+409
+00:28:07,280 --> 00:28:10,661
+I know that it’s risky to use the
+Transmix-drive with only one nacelle,
+
+410
+00:28:11,098 --> 00:28:13,712
+but we still have to try!
+
+411
+00:28:14,472 --> 00:28:17,818
+Mr. Mayweather, take us home!
+
+412
+00:28:26,331 --> 00:28:32,236
+English captions by
+Stephan Mittelstrass and Peter Walker
+
+413
+00:28:39,203 --> 00:28:41,870
+[Trailer for part 2, after the credits.]
+
+414
+00:30:28,134 --> 00:30:32,867
+These ships have been destroyed,
+not more than two days ago, Captain.
+
+415
+00:30:38,408 --> 00:30:41,208
+Sir, I can’t establish contact with Earth!
+
+416
+00:30:53,996 --> 00:30:59,329
+Sir, the enemy’s warp signature,
+it’s identical with the ships in the Time-Mirror.
+
+417
+00:31:03,526 --> 00:31:05,310
+Captain, one of them is approaching us.
+
+418
+00:31:05,347 --> 00:31:09,580
+Captain, the Vulcan, Andorian and
+Starfleet vessels are being destroyed.
+
+419
+00:31:09,620 --> 00:31:12,688
+Even the Klingon’s are
+fighting the invading forces.
+
+420
+00:31:12,736 --> 00:31:14,363
+Sir, it’s not looking good!
+
+421
+00:31:14,419 --> 00:31:17,058
+The allied ships are sitting ducks,
+for the Empire’s attack.
+
+422
+00:31:17,082 --> 00:31:20,076
+We have to do something,
+we have to help them.
+
+423
+00:31:32,788 --> 00:31:36,232
+Logical course of events?
+We had sex, T’Pol.
+
+424
+00:31:36,518 --> 00:31:39,304
+I wasn’t even expecting a Vulcan,
+to do such a thing.
+
+425
+00:31:44,047 --> 00:31:46,237
+I am Admiral James T. Kirk.
+
+426
+00:31:56,951 --> 00:32:01,411
+Youtube release: June 19, 2016
+
+427
+00:32:02,843 --> 00:32:06,549
+The weapon is ready, awaiting your orders.
+
+428
+00:32:06,627 --> 00:32:10,453
+Activate the Thalaron-Matrix.
+Destroy the bio-units!
+
